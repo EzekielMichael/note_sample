@@ -46,13 +46,10 @@ Exported notes can be shared through supported applications and services, includ
 
 The application uses the device's native sharing capabilities to provide flexible sharing options.
 
-## Screenshots
-
-> Add screenshots of the application here to demonstrate its interface and key features.
 
 ### Home Screen
 
-![Home Screen](screenshots/Screenshot From 2026-08-25 12-06-32.png)
+![Home Screen](screenshots/'Screenshot From 2026-08-25 12-06-32.png')
 
 ### Multimedia Note
 
