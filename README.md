@@ -49,7 +49,7 @@ The application uses the device's native sharing capabilities to provide flexibl
 
 ### Home Screen
 
-![Home Screen](screenshots/'Screenshot From 2026-08-25 12-06-32.png')
+![Home Screen](screenshots/Screenshot%20From%202026-08-25%2012-06-32.png)
 
 ### Multimedia Note
 
