@@ -56,7 +56,7 @@ The application uses the device's native sharing capabilities to provide flexibl
 ![Multimedia Note](screenshots/image.png)
 
 ### Export and Share
-![Share Note](screenshots/Screenshot From 2026-08-25 12-11-31.png)
+![Share Note](screenshots/Screenshot%20From%202026-08-25%2012-11-31.png)
 
 ## Technology Stack
 
