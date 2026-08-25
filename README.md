@@ -52,19 +52,15 @@ The application uses the device's native sharing capabilities to provide flexibl
 
 ### Home Screen
 
-![Home Screen](screenshots/home.png)
-
-### Create Note
-
-![Create Note](screenshots/create_note.png)
+![Home Screen](screenshots/Screenshot From 2026-08-25 12-06-32.png)
 
 ### Multimedia Note
 
-![Multimedia Note](screenshots/multimedia_note.png)
+![Multimedia Note](screenshots/image.png)
 
 ### Export and Share
-
-![Share Note](screenshots/share.png)
+![export](screenshots/Screenshot From 2026-08-25 12-10-12.png)
+![Share Note](screenshots/Screenshot From 2026-08-25 12-11-31.png)
 
 ## Technology Stack
 
