@@ -189,6 +189,10 @@ Cybersecurity | Digital Forensics | Django | Flutter | Java | AI | Web Security 
 
 📧 Email: [ezekielmichaeljuma1st@gmail.com](mailto:ezekielmichaeljuma1st@gmail.com)
 
+🔗 **GitHub:** https://github.com/EzekielMichael
+
+🔗 **LinkedIn:** www.linkedin.com/in/ezekiel-michael-93234a2bb
+
 ## License
 
 This project is intended for educational and portfolio purposes.
